@@ -1,3 +1,4 @@
-* heart :heart:
-* smile :smile:
-* top :100:
+My hobbies are:
+* reading :books:
+* gaming :video_game:
+* soccer :soccer:
